@@ -1,6 +1,6 @@
 ### Hi there, I'm Borislav Stoyanov! 👋
 **About Me:**
-- 👨🏻‍💻 Currently working as a Front-End Developer at [NexGen LLC](https://www.linkedin.com/company/nex-gen-llc/)
+- 👨🏻‍💻 Currently working as a Front-End Developer (React)
 - 👨🏻‍💻 Year 3 Information Technology Student at [Nikola Vaptsarov Naval Academy](http://www.naval-acad.bg/en)
 - 📫 How to reach me: bostoycontact@gmail.com;
 
