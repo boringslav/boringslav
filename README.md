@@ -3,7 +3,7 @@
 - ⚡ Full Stack JS Developer (MERN Stack)
 - 💰 Blockchain Enthusiast
 - 🎓 Year 3 Information Technology Student at ***[Nikola Vaptsarov Naval Academy](http://www.naval-acad.bg/en)***
-- 📫 **How to reach me: __bostoycontact@gmail.com__**
+- 📫 ***How to reach me: bostoycontact@gmail.com***
 
 <!-- 📈 **My GitHub Stats:**
 <p>
