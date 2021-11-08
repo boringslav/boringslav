@@ -1,8 +1,9 @@
 ### Hi there, I'm Borislav Stoyanov! 👋
 **About Me:**
-- 👨🏻‍💻 Currently working as a Front-End Developer (React)
-- 👨🏻‍💻 Year 3 Information Technology Student at [Nikola Vaptsarov Naval Academy](http://www.naval-acad.bg/en)
-- 📫 How to reach me: bostoycontact@gmail.com;
+- ⚡ Full Stack JS Developer (MERN Stack)
+- 💰 Blockchain Enthusiast
+- 🎓 Year 3 Information Technology Student at ***[Nikola Vaptsarov Naval Academy](http://www.naval-acad.bg/en)***
+- 📫 **How to reach me: __bostoycontact@gmail.com__**
 
 <!-- 📈 **My GitHub Stats:**
 <p>
