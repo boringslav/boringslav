@@ -1,9 +1,5 @@
 ## Hi there 🙋🏻‍♂️
-I'm Borislav, a software engineer transitioning to web3.
-### 🔥 About Me 🔥
- - 🎓 Bachelor of Information and Communications Technology (ICT)
- - 💻 Software engineer with 3 years of professional experience
- - 🦄 Currently transitioning to web3, actively participating in auditing contests
+I'm Borislav, a software engineer transitioning to web3 security.
 
 ## Audit Contests
 | Contest |Findings |
