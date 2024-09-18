@@ -2,7 +2,7 @@
 I'm Borislav, a Web3 Security Researcher & Software Engineer
 ###  About Me 
  - 🎓 Bachelor of Information and Communications Technology (ICT)
- - 💻 Software engineer with 3 years of professional experience (web2)
+ - 💻 Software engineer with 3 years of professional experience (Web2)
  - 🦄 Currently transitioning to web3 security, actively participating in auditing contests
 
 ## Audit Contests
